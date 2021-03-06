@@ -1,0 +1,46 @@
+{
+    b2aa841e40bd571bee90e9b5eedded0f
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "San-Fransisco, California",
+        "social": {
+            "twitter_handle": "AdapoolsO",
+            "telegram_handle": "AdaRare_pool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Ada Rare",
+            "addr": "",
+            "city": "Los-Angeles",
+            "country": "California",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "Secure Server - STABILITY",
+            "company": "..."
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91"
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+             "0": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "55f6ead48089a770048632c4df47008d"
+            }
+        }
+    }
+}
