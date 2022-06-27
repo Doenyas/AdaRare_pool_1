@@ -33,6 +33,9 @@
     "telegram-admin-handle": {
         "0": "Adarare"
     },
+    "cexplorer": {
+        "0": "2f01f9b3bbfe72ba99"
+    }
     "adapools_ext": {
         "prometheus": {
              "0": {
@@ -43,4 +46,3 @@
         }
     }
 }
-2f01f9b3bbfe72ba99
