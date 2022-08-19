@@ -1,1 +1,8 @@
-
+{
+  "name": "AdaRare Stake Pool",
+  "ticker": "ARARE",
+  "description": "ARARE Stake Pool",
+  "homepage": "https://arare.io/",
+  "nonce": "1614915653",
+  "extended": "https://git.io/JqTy9"
+}
